@@ -34,10 +34,4 @@ node slot_machine_game.js
 - The player's balance is displayed at the beginning of each round.
 - Enjoy the thrill of spinning the reels and see if luck is on your side!
 
-## Author
 
-This game was created by [Your Name].
-
-## Acknowledgments
-
-Special thanks to [anyone you'd like to acknowledge, such as mentors, tutorial creators, etc.] for their assistance and inspiration.
