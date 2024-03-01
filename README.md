@@ -32,6 +32,6 @@ node slot_machine_game.js
 
 - The game will continue until the player chooses to stop or runs out of money.
 - The player's balance is displayed at the beginning of each round.
-- Enjoy the thrill of spinning the reels and see if luck is on your side!
+- Enjoy the thrill of spinning the reels and see if luck is on your side!!!
 
 
